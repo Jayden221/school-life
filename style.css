@@ -8,3 +8,19 @@ h1{text-align: center;}
   height:120px;
   border: 1px solid black;
 }
+
+.beginning{
+  display: flex;
+  justify-content:
+  space-around;
+}
+.options{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 30px;
+}
+.photo-one{
+  width:200px;
+  
+}
