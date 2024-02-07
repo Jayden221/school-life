@@ -5,7 +5,7 @@ html {
 h1{text-align: center;}
 
 .characters{
-  height:120px;
+  height:150px;
   border: 1px solid black;
 }
 
@@ -21,6 +21,28 @@ h1{text-align: center;}
   padding: 30px;
 }
 .photo-one{
-  width:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   
+}
+.photo-two{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.photo-three{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.photo-four{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
