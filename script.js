@@ -1,5 +1,3 @@
-let boyButton = document.querySelector(".boyButton")
+console.log("hhh");
 
-boyButton.addEventListener("click", function() {
-  
-})
+
