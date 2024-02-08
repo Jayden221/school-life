@@ -18,93 +18,123 @@ h1{text-align: center;}
   display: flex;
   justify-content:
   space-around;
-  padding: 30px;
+  padding: 70px;
 }
 .photo-one{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 70%;
   
 }
 .photo-two{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
 }
 .photo-three{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 70%;
 }
 
 .photo-four{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 70%;
 }
 .photo-five{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 70%;
 }
 .photo-six{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 70%;
 }
 .photo-seven{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 70%;
 }
 .photo-eight{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 70%;
 }
 .photo-nine{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 70%;
 }
 .photo-ten{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
 }
 .photo-eleven{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 70%;
 }
 .photo-twelve{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 70%;
 }
 .photo-thirteen{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 70%;
 }
 .photo-fourteen{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 70%;
+}
+.photo-fifteen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.photo-sixteen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.photo-seventeen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.photo-eighteen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.photo-nineteen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
 
 
