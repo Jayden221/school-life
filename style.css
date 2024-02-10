@@ -14,12 +14,152 @@ h1{text-align: center;}
   justify-content:
   space-around;
 }
-.options{
+.options1{
   display: flex;
   justify-content:
   space-around;
   padding: 80px;
 }
+.options2{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options3{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px
+}
+.options4{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options5{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options6{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options7{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options8{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options9{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options10{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options11{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options12{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options13{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options14{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options15{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options16{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options17{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options18{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options19{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options20{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options21{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options22{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options23{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options24{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+
+
 .photo-one{
     display: block;
     margin-left: auto;
@@ -238,14 +378,14 @@ body {
   color: black;
 }
 
-p1 {
+h2 {
   color: black;
 }
-p1 {
+h2 {
   font-size: 60px;
 }
 
-p1 {
+h2 {
   font-size: 60px;
 }
 
@@ -257,7 +397,6 @@ p {
   display: none;
 
 }
-
 
 
 .screen3 {
