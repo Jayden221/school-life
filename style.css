@@ -106,11 +106,11 @@ h1{text-align: center;}
   margin-right: auto;
   width: 80%;
 }
-.photo-fifteen{
+.photo-fifthteen{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 70%;
 }
 .photo-sixteen{
   display: block;
@@ -136,6 +136,101 @@ h1{text-align: center;}
   margin-right: auto;
   width: 80%;
 }
+.photo-twenty{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.photo-twentyone{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.photo-twentytwo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.photo-twentythree{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 body {
   background-color: lightblue;
 }
@@ -143,19 +238,222 @@ body {
   color: black;
 }
 
-h1 {
+p1 {
   color: black;
 }
-h1 {
+p1 {
   font-size: 60px;
 }
 
-h2 {
+p1 {
   font-size: 60px;
 }
 
 p {
   font-size: 15px;
+}
+
+.screen2 {
+  display: none;
+
+}
+
+
+
+.screen3 {
+  display: none;
+}
+
+.screen4 {
+  display: none;
+}
+
+.screen5 {
+  display: none;
+}
+
+.screen6 {
+  display: none;
+}
+
+.screen7 {
+  display: none;
+}
+
+.screen8 {
+  display: none;
+}
+
+.screen9 {
+  display: none;
+}
+
+.screen10 {
+  display: none;
+}
+
+.screen11 {
+  display: none;
+}
+
+.screen12 {
+  display: none;
+}
+
+.screen13 {
+  display: none;
+}
+
+.screen14 {
+  display: none;
+}
+
+.screen15 {
+  display: none;
+}
+
+.screen16 {
+  display: none;
+}
+
+.screen17 {
+  display: none;
+}
+
+.screen18 {
+  display: none;
+}
+
+.screen19 {
+  display: none;
+}
+
+.screen20 {
+  display: none;
+}
+
+.screen21 {
+  display: none;
+}
+
+.screen22 {
+  display: none;
+}
+
+.screen23 {
+  display: none;
+}
+
+.screen24 {
+  display: none;
+}
+
+.screen25 {
+  display: none;
+}
+
+.screen26 {
+  display: none;
+}
+
+.screen27 {
+  display: none;
+}
+
+.screen28 {
+  display: none;
+}
+
+.screen29 {
+  display: none;
+}
+
+.screen30 {
+  display: none;
+}
+
+.screen31 {
+  display: none;
+}
+
+.screen32 {
+  display: none;
+}
+
+.screen33 {
+  display: none;
+}
+
+.screen34 {
+  display: none;
+}
+
+.screen35 {
+  display: none;
+}
+
+.screen36 {
+  display: none;
+}
+
+.screen37 {
+  display: none;
+}
+
+.screen38 {
+  display: none;
+}
+
+.screen39 {
+  display: none;
+}
+
+.screen40 {
+  display: none;
+}
+
+.screen41 {
+  display: none;
+}
+
+.screen42 {
+  display: none;
+}
+
+.screen43 {
+  display: none;
+}
+
+.screen44 {
+  display: none;
+}
+
+.screen45 {
+  display: none;
+}
+
+.screen46 {
+  display: none;
+}
+
+.screen47 {
+  display: none;
+}
+
+.screen48 {
+  display: none;
+}
+
+.screen49 {
+  display: none;
+}
+
+.screen50 {
+  display: none;
+}
+
+.screen51 {
+  display: none;
 }
 
 
