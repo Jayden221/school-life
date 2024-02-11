@@ -138,8 +138,132 @@ forwardButton.addEventListener("click",function(){
   options7.style.display = "none";
   options29.style.display= "block";
 });
-                              
-                          
+
+classworkButton.addEventListener("click",function(){
+  classworkButton.style.display = "none";
+  options8.style.display = "none";
+  options9.style.display = "block";
+});
+
+noButton.addEventListener("click",function(){
+  noButton.style.display = "none";
+  options9.style.display = "none";
+  options10.style.display = "block";
+});
+
+onwardButton.addEventListener("click",function(){
+  onwardButton.style.display = "none";
+  options10.style.display = "none";
+  options29.style.display = "block";
+});
+
+napButton.addEventListener("click",function(){
+  napButton.style.display = "none";
+  options8.style.display = "none";
+  options11.style.display = "block";
+});
+
+nopeButton.addEventListener("click",function(){
+  nopeButton.style.display = "none";
+  options11.style.display = "none";
+  options15.style.display = "block";
+});
+
+yesButton.addEventListener("click",function(){
+  yesButton.style.display = "none";
+  options11.style.display = "none";
+  options12.style.display = "block";
+});
+
+libraryButton.addEventListener("click",function(){
+  libraryButton.style.display = "none";
+  options15.style.display = "none";
+  options16.style.display = "block";
+});
+
+easyButton.addEventListener("click",function(){
+  easyButton.style.display = "none";
+  options16.style.display = "none";
+  options18.style.display = "block";
+});
+
+coffeeButton.addEventListener("click",function(){
+  coffeeButton.style.display = "none";
+  options15.style.display = "none";
+  options17.style.display = "block";
+});
+
+randomButton.addEventListener("click",function(){
+  randomButton.style.display = "none";
+  options18.style.display = "none";
+  options19.style.display = "block";
+});
+
+takeupButton.addEventListener("click",function(){
+  takeupButton.style.display = "none";
+  options17.style.display = "none";
+  options19.style.display = "block";
+});
+
+giveitButton.addEventListener("click",function(){
+  giveitButton.style.display = "none";
+  options19.style.display = "none";
+  options21.style.display = "block";
+});
+
+dontgiveButton.addEventListener("click",function(){
+  dontgiveButton.style.display = "none";
+  options19.style.display = "none";
+  options20.style.display = "block";
+});
+
+uhohbutton.addEventListener("click",function(){
+  uhohbutton.style.display = "none";
+  options20.style.display = "none";
+  options29.style.display ="block";
+});
+
+nothingButton.addEventListener("click",function(){
+  nothingButton.style.display = "none";
+  options21.style.display = "none";
+  options22.style.display = "block";
+});
+
+yepButton.addEventListener("click",function(){
+  yepButton.style.display = "none";
+   options22.style.display = "none";
+  options23.style.display ="block";
+});
+
+yupButton.addEventListener("click",function(){
+  yupButton.style.display = "none";
+  options23.style.display = "none";
+  options24.style.display ="block";
+});
+
+runButton.addEventListener("click",function(){
+  runButton.style.display = "none";
+  options24.style.display = "none";
+  options25.style.display ="block";
+});
+
+sureButton.addEventListener("click",function(){
+  sureButton.style.display = "none";
+  options25.style.display = "none";
+  options26.style.display = "block";
+});
+
+acceptButton.addEventListener("click",function(){
+  acceptButton.style.display = "none";
+  options26.style.display = "none";
+  options27.style.display = "block";
+});
+
+denyButton.addEventListener("click",function(){
+  denyButton.style.display = "none";
+  options26.style.display = "none";
+  options28.style.display = "block";
+});
 
 
 

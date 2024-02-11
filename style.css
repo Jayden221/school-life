@@ -2,12 +2,11 @@ html {
   height: 100%;
   width: 100%;
 }
-h1{text-align: center;}
-h2{text-align: center;}
-h3{text-align: center;}
-h4
 
- 
+
+
+
+
 
 
 .title{
@@ -33,7 +32,7 @@ h4
   display: none;
   justify-content:
   space-around;
-  padding: 80px;
+  padding: 50px;
 }
 .options3{
   display: none;
@@ -369,7 +368,12 @@ h4
   margin-right: auto;
   width: 80%; 
 }
-
+.photo-twentynine{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; 
+}
 
 
 
@@ -395,10 +399,7 @@ h2 {
   font-size: 60px;
 }
 
-p {
-  font-size: 30px;
-  display:none
-}
+
 
 
 
