@@ -3,366 +3,372 @@ html {
   width: 100%;
 }
 h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+h4
+
+ 
+
+
+.title{
+  display: flex;
+  justify-content:
+  space-around;
+  width: 100%;
+}
 
 .characters{
   height:250px;
   border: 1px solid Black;
 }
 
-.beginning{
-  display: flex;
-  justify-content:
-  space-around;
-}
-.options1{
+.clickthis{
   display: flex;
   justify-content:
   space-around;
   padding: 80px;
 }
+
 .options2{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options3{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px
 }
 .options4{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options5{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options6{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options7{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options8{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options9{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options10{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options11{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options12{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options13{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options14{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options15{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options16{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options17{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options18{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options19{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options20{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options21{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options22{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options23{
-  display: flex;
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 .options24{
-  display: flex;
+  display: none;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options25{
+  display: none;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options26{
+  display: none;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options27{
+  display: none;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options28{
+  display: none;
+  justify-content:
+  space-around;
+  padding: 80px;
+}
+.options29{
+  display: none;
   justify-content:
   space-around;
   padding: 80px;
 }
 
-
 .photo-one{
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     width: 80%;
   
 }
 .photo-two{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
+
 .photo-three{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 
 .photo-four{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-five{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-six{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-seven{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-eight{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-nine{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-ten{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-eleven{
-  display: block;
+  display:flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-twelve{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-thirteen{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-fourteen{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-fifthteen{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 70%;
 }
 .photo-sixteen{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-seventeen{
-  display: block;
+  display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-eighteen{
-  display: block;
+  display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-nineteen{
-  display: block;
+  display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-twenty{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-twentyone{
-  display: block;
+  display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-twentytwo{
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
 .photo-twentythree{
-  display: block;
+  display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.photo-twentyfour{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.photo-twentyfive{
+  display:  flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.photo-twentysix{
+  display:  flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; 
+}
+.photo-twentyseven{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; 
+}
+.photo-twentyeight{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%; 
+}
 
 
 
@@ -390,210 +396,10 @@ h2 {
 }
 
 p {
-  font-size: 15px;
+  font-size: 30px;
+  display:none
 }
 
-.screen2 {
-  display: none;
-
-}
-
-
-.screen3 {
-  display: none;
-}
-
-.screen4 {
-  display: none;
-}
-
-.screen5 {
-  display: none;
-}
-
-.screen6 {
-  display: none;
-}
-
-.screen7 {
-  display: none;
-}
-
-.screen8 {
-  display: none;
-}
-
-.screen9 {
-  display: none;
-}
-
-.screen10 {
-  display: none;
-}
-
-.screen11 {
-  display: none;
-}
-
-.screen12 {
-  display: none;
-}
-
-.screen13 {
-  display: none;
-}
-
-.screen14 {
-  display: none;
-}
-
-.screen15 {
-  display: none;
-}
-
-.screen16 {
-  display: none;
-}
-
-.screen17 {
-  display: none;
-}
-
-.screen18 {
-  display: none;
-}
-
-.screen19 {
-  display: none;
-}
-
-.screen20 {
-  display: none;
-}
-
-.screen21 {
-  display: none;
-}
-
-.screen22 {
-  display: none;
-}
-
-.screen23 {
-  display: none;
-}
-
-.screen24 {
-  display: none;
-}
-
-.screen25 {
-  display: none;
-}
-
-.screen26 {
-  display: none;
-}
-
-.screen27 {
-  display: none;
-}
-
-.screen28 {
-  display: none;
-}
-
-.screen29 {
-  display: none;
-}
-
-.screen30 {
-  display: none;
-}
-
-.screen31 {
-  display: none;
-}
-
-.screen32 {
-  display: none;
-}
-
-.screen33 {
-  display: none;
-}
-
-.screen34 {
-  display: none;
-}
-
-.screen35 {
-  display: none;
-}
-
-.screen36 {
-  display: none;
-}
-
-.screen37 {
-  display: none;
-}
-
-.screen38 {
-  display: none;
-}
-
-.screen39 {
-  display: none;
-}
-
-.screen40 {
-  display: none;
-}
-
-.screen41 {
-  display: none;
-}
-
-.screen42 {
-  display: none;
-}
-
-.screen43 {
-  display: none;
-}
-
-.screen44 {
-  display: none;
-}
-
-.screen45 {
-  display: none;
-}
-
-.screen46 {
-  display: none;
-}
-
-.screen47 {
-  display: none;
-}
-
-.screen48 {
-  display: none;
-}
-
-.screen49 {
-  display: none;
-}
-
-.screen50 {
-  display: none;
-}
-
-.screen51 {
-  display: none;
-}
 
 
 
