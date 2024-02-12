@@ -1,7 +1,6 @@
 console.log("hhh");
 
-let title = document.querySelector(".title");
-  console.log(title);
+
 
 let options1 = document.querySelector(".options1");
 let options2 = document.querySelector(".options2");
@@ -32,7 +31,7 @@ let options26 = document.querySelector(".options26");
 let options27 = document.querySelector(".options27");
 let options28 = document.querySelector(".options28");
 let options29 = document.querySelector(".options29");
-
+let title = document.querySelector(".title");
 
 let wakeupButton = document.querySelector(".wakeupButton");
 let sleepButton = document.querySelector(".sleepButton");
@@ -61,7 +60,7 @@ let randomButton = document.querySelector(".randomButton");
 let giveitButton = document.querySelector(".giveitButton");
 let dontgiveButton = document.querySelector(".dontgiveButton");
 let uhohbutton = document.querySelector(".uhohbutton");
-let nothingButton = document.querySelector(".nothingButton");
+let nothingButton =document.querySelector(".nothingButton");
 let yepButton = document.querySelector(".yepButton");
 let yupButton = document.querySelector(".yupButton");
 let runButton = document.querySelector(".runButton");
@@ -76,8 +75,8 @@ let clickthisButton = document.querySelector(".clickthisButton");
 
 clickthisButton.addEventListener("click", function() {
   clickthisButton.style.display = "none";
+  title.style.display = "none";
   options2.style.display = "block";
-  
 });
 
 wakeupButton.addEventListener( "click",function() {
@@ -264,6 +263,31 @@ denyButton.addEventListener("click",function(){
   options26.style.display = "none";
   options28.style.display = "block";
 });
+
+windowButton.addEventListener("click",function(){
+  windowButton.style.display = "none";
+  options12.style.display = "none";
+  options14.style.display = "block";
+});
+
+carryonButton.addEventListener("click",function(){
+  carryonButton.style.display = "none";
+  options14.style.display = "none";
+  options29.style.display = "block";
+});
+
+leaveButton.addEventListener("click",function(){
+  leaveButton.style.display = "none";
+  options12.style.display = "none";
+  options13.style.display = "block";
+});
+
+persistButton.addEventListener("click",function(){
+  persistButton.style.display = "none";
+  options13.style.display = "none";
+  options29.style.display = "block";
+});
+
 
 
 

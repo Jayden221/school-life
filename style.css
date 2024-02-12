@@ -3,22 +3,593 @@ html {
   width: 100%;
 }
 
-
-
-
-
-
+.wakeupButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.sleepButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.clickthisButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.bikeButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.walkButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.continueButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.confrontButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.ignoreButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.nextButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.forwardButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.napButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.classworkButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.nopeButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.yesButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.noButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.onwardButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.libraryButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.coffeeButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.windowButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.leaveButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.carryonButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.persistButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.easyButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.takeupButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.randomButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.giveitButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.dontgiveButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.nothingButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.uhohbutton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.yepButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.yupButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.runButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.sureButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.acceptButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.denyButton{
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #000000);
+  background-image: -moz-linear-gradient(top, #ffffff, #000000);
+  background-image: -ms-linear-gradient(top, #ffffff, #000000);
+  background-image: -o-linear-gradient(top, #ffffff, #000000);
+  background-image: linear-gradient(to bottom, #ffffff, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #080008;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
 
 .title{
   display: flex;
   justify-content:
   space-around;
-  width: 100%;
+  padding: 100px;
 }
 
 .characters{
   height:250px;
   border: 1px solid Black;
+}
+body{
+  background-color: lightblue;
+}
+h2 {
+  font-size: 60px;
+  color: black;
+  text-align: center;
+}
+
+.secrettitle{
+  display: flex;
+  justify-content:
+  space-around;
+  padding: 80px;
+   text-align: center;
 }
 
 .clickthis{
@@ -26,175 +597,205 @@ html {
   justify-content:
   space-around;
   padding: 80px;
+  
 }
 
 .options2{
   display: none;
   justify-content:
   space-around;
-  padding: 50px;
+  padding: 80px;
+   text-align: center;
+
 }
 .options3{
   display: none;
   justify-content:
   space-around;
-  padding: 80px
+  padding: 80px;
+   text-align: center;
 }
 .options4{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options5{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options6{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options7{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options8{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options9{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options10{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options11{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options12{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options13{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options14{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options15{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options16{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options17{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options18{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options19{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options20{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options21{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options22{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options23{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options24{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options25{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options26{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options27{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options28{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 .options29{
   display: none;
   justify-content:
   space-around;
   padding: 80px;
+   text-align: center;
 }
 
 .photo-one{
@@ -202,13 +803,15 @@ html {
     margin-left: auto;
     margin-right: auto;
     width: 80%;
-  
+   text-align: center;
+ 
 }
 .photo-two{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 
 .photo-three{
@@ -216,6 +819,7 @@ html {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 
 .photo-four{
@@ -223,180 +827,212 @@ html {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-five{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-six{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-seven{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-eight{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-nine{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+  text-align: center;
 }
 .photo-ten{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-eleven{
   display:flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-twelve{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-thirteen{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-fourteen{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-fifthteen{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 70%;
+   text-align: center;
 }
 .photo-sixteen{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-seventeen{
   display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-eighteen{
   display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-nineteen{
   display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-twenty{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-twentyone{
   display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-twentytwo{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-twentythree{
   display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-twentyfour{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+   text-align: center;
 }
 .photo-twentyfive{
-  display:  flex;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
+  text-align: center;
+   display:  flex;
+   margin-left: auto;
+   margin-right: auto;
+   width: 80% 
 }
 .photo-twentysix{
   display:  flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%; 
+   text-align: center;
 }
 .photo-twentyseven{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%; 
+   text-align: center;
 }
 .photo-twentyeight{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%; 
+   text-align: center;
 }
 .photo-twentynine{
   display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 80%; 
+   text-align: center;
+   background-image: -webkit-linear-gradient(top, #c91010, #f200f2);
+  }
+   
+ 
+
+.btn {
+  background: #c91010;
+  background-image: -webkit-linear-gradient(top, #c91010, #f200f2);
+  background-image: -moz-linear-gradient(top, #c91010, #f200f2);
+  background-image: -ms-linear-gradient(top, #c91010, #f200f2);
+  background-image: -o-linear-gradient(top, #c91010, #f200f2);
+  background-image: linear-gradient(to bottom, #c91010, #f200f2);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
 }
 
-
-
-
-
-
-
-body {
-  background-color: lightblue;
-}
-body {
-  color: black;
-}
-
-h2 {
-  color: black;
-}
-h2 {
-  font-size: 60px;
-}
-
-h2 {
-  font-size: 60px;
+.btn:hover {
+  background: #1996e3;
+  background-image: -webkit-linear-gradient(top, #1996e3, #3498db);
+  background-image: -moz-linear-gradient(top, #1996e3, #3498db);
+  background-image: -ms-linear-gradient(top, #1996e3, #3498db);
+  background-image: -o-linear-gradient(top, #1996e3, #3498db);
+  background-image: linear-gradient(to bottom, #1996e3, #3498db);
+  text-decoration: none;
 }
 
 
