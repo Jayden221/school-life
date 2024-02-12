@@ -584,13 +584,6 @@ h2 {
   text-align: center;
 }
 
-.secrettitle{
-  display: flex;
-  justify-content:
-  space-around;
-  padding: 80px;
-   text-align: center;
-}
 
 .clickthis{
   display: flex;
